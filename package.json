@@ -1,0 +1,23 @@
+{
+  "name": "test-vercel",
+  "version": "1.0.0",
+  "description": "prueab para despliege en vercel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lchaconc/test-vercel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lchaconc/test-vercel/issues"
+  },
+  "homepage": "https://github.com/lchaconc/test-vercel#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
